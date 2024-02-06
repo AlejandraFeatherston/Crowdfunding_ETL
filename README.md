@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-I uploaded screenshots of running SELECT * for each CSV (campaign, contacts, category, subcategory) to the tables I created with postgres sql
+I uploaded screenshots of running SELECT * for each CSV (campaign, contacts, category, subcategory) of the tables I created with postgres sql
 
 Sources:
 - I used this source to remember how to drop a column: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
